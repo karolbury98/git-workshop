@@ -4,3 +4,4 @@ To jest mój pierwszy projekt Git
 
 ##Autor 
 Karol
+## Nowa funkcja
